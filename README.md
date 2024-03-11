@@ -12,23 +12,16 @@ Recomendaciones de acción: "Buscar atención médica inmediata", "Autoaislarse 
 Reglas:
 
 Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
-Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es regular, entonces el diagnóstico es "Muy probable".
+Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es regular, entonces el diagnóstico es "Confirmado".
 Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es poca, entonces el diagnóstico es "Muy probable".
 Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es nula, entonces el diagnóstico es "Muy probable".
-Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
-Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
-Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
-Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
-Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
-Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
-Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
-Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
-Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
-Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
-Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
-Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
-Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
-Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
-Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
-Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
-Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
+Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es Regular Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
+Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es Poca Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Muy probable".
+Si la fiebre es muy alta Y la tos es alta Y la dificultad para respirar es Nula Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Muy probable".
+Si la fiebre es muy alta Y la tos es Regular Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
+Si la fiebre es muy alta Y la tos es Poca Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Muy probable".
+Si la fiebre es muy alta Y la tos es Nula Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Muy probable".
+Si la fiebre es muy Regular Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Confirmado".
+Si la fiebre es muy Poca Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Muy probable".
+Si la fiebre es muy Nula Y la tos es alta Y la dificultad para respirar es alta Y hay pérdida del gusto u olfato es alta, entonces el diagnóstico es "Muy probable".
+
